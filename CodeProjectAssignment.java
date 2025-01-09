@@ -2,8 +2,8 @@ package codeProject;
 
 public class CodeProjectAssignment {
 	
-	private static double[] array2;
-	private static int[] array;
+	public static double[] array2;
+	public static int[] array;
 
 	public static void main (String[] args) {
 		
